@@ -1,4 +1,4 @@
-module github.com/mdlayher/raw
+module github.com/joewilliams/raw
 
 go 1.12
 
